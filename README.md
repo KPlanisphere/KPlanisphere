@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="https://i.makeagif.com/media/2-01-2017/sko_Jo.gif" width="600"/>
 </div>
-# 💫 About Me:
+
+💫 About Me:
 🌱 I’m currently learning Python, R, Tensorflow and Pandas<br>📫 How to reach me: jesus.huertakg@gmail.com
 
 
@@ -18,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KPlanisphere&icon=1&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
