@@ -4,7 +4,7 @@
     <img src="https://i.makeagif.com/media/2-01-2017/sko_Jo.gif" width="600"/>
 </div>
 
-<br>🌱 I’m currently learning Python, R, Tensorflow and Pandas <br>📫 How to reach me: jesus.huertakg@gmail.com<br>🌟 I love music production!
+<br>🌱 I’m currently learning Python, R, Tensorflow and Pandas <br>📫 How to reach me: jesus.huertakg@gmail.com<br>🌟 I love music production!<br>🚨 I'm uploading my past projects!!
 
 
 ## 🌐 Socials:
