@@ -42,7 +42,7 @@ Currently, I am dedicating time to deepen my knowledge in Python and R. These ar
 
 <h4 align="center">🚨 I’M STILL UPLOADING MY OLD SCHOOL PROJECTS 🚨</h4>
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPlanisphere&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />  </p>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPlanisphere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical" alt="Top Languages" />  </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KPlanisphere&icon=1&color=10)](https://visitcount.itsvg.in)
