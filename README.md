@@ -3,9 +3,7 @@
 
 > AKA: PLANISPHERE // KEYGLAZZ
 
-<div id="header" align="center">
-    <img src="https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/8bd90e05-b778-4d60-acec-386e7fb32528" width="800"/>
-</div>
+![KGit (compressed 5)](https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/8bd90e05-b778-4d60-acec-386e7fb32528)
 
 ## 🥭 About Me
 
