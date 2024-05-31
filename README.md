@@ -3,7 +3,7 @@
 
 > AKA: PLANISPHERE // KEYGLAZZ
 
-![KGit (compressed 5)](https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/8bd90e05-b778-4d60-acec-386e7fb32528)
+![KeyglazzGIT](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc4ODF4OWptd3NpeGd3amtmd3c1aG9veHpzOXU2cmh1NmdmMW12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif)
 
 ## 🥭 About Me
 
