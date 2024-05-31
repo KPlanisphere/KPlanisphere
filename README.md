@@ -3,8 +3,9 @@
 
 > AKA: PLANISPHERE // KEYGLAZZ
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc4ODF4OWptd3NpeGd3amtmd3c1aG9veHpzOXU2cmh1NmdmMW12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" width="800" height=auto />
-![KeyglazzGIT]()
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc4ODF4OWptd3NpeGd3amtmd3c1aG9veHpzOXU2cmh1NmdmMW12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" width="800" height="auto" />
+</div>
 
 ## 🥭 About Me
 
