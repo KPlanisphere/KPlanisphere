@@ -4,7 +4,7 @@
 > AKA: PLANISPHERE // KEYGLAZZ
 
 <div id="header" align="center">
-    <img src="https://i1.sndcdn.com/visuals-000188110313-wKJRQd-original.jpg" width="800"/>
+    <img src="https://github.com/KPlanisphere/binary-tree-operations/assets/60454942/8bd90e05-b778-4d60-acec-386e7fb32528" width="800"/>
 </div>
 
 ## 🥭 About Me
