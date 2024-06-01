@@ -7,8 +7,6 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc4ODF4OWptd3NpeGd3amtmd3c1aG9veHpzOXU2cmh1NmdmMW12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" width="800" height="auto" />
 </p>
 
-![GIF](https://media.giphy.com/media/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif)
-
 ## 🥭 About Me
 
 I'm Jesús Huerta Aguilar, a dedicated student with a profound enthusiasm for technology and creativity. Currently, I'm advancing through my seventh semester at the Facultad de Ciencias de la Computación (FCC) at the Benemérita Universidad Autonoma de Puebla.
