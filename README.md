@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc4ODF4OWptd3NpeGd3amtmd3c1aG9veHpzOXU2cmh1NmdmMW12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" width="800" height="auto" />
 </p>
 
-<div style="width:100%;height:0;padding-bottom:30%;position:relative;"><iframe src="https://giphy.com/embed/cSEOsuiFxcHwRoR0Eu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cSEOsuiFxcHwRoR0Eu">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/cSEOsuiFxcHwRoR0Eu" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cSEOsuiFxcHwRoR0Eu">via GIPHY</a></p>
 
 ## 🥭 About Me
 
