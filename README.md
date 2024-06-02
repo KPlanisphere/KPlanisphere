@@ -9,7 +9,7 @@
 
 ## 🥭 About Me
 
-I'm Jesús Huerta Aguilar, a dedicated student with a profound enthusiasm for technology and creativity. Currently, I'm advancing through my seventh semester at the Facultad de Ciencias de la Computación (FCC) at the Benemérita Universidad Autonoma de Puebla.
+I'm Jesús Huerta Aguilar, a dedicated student with a profound enthusiasm for technology and creativity. Currently, I'm advancing through my eighth semester at the Facultad de Ciencias de la Computación (FCC) at the Benemérita Universidad Autonoma de Puebla.
 
 ## 🧠 Interests 
 
