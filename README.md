@@ -3,8 +3,8 @@
 
 > AKA: PLANISPHERE // KEYGLAZZ
 
-<p align= "center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR5NDl6a2N6cTIwcTl1aXpyYXdxcnFxMHM1Zm02cTdlcnZjaXhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" width="800" height="auto" />
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR5NDl6a2N6cTIwcTl1aXpyYXdxcnFxMHM1Zm02cTdlcnZjaXhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" />
 </p>
 
 ## 🥭 About Me
