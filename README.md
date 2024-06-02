@@ -27,6 +27,7 @@ Follow my artistic project "[Keyboard Glazz](https://youtube.com/@keyboardglazz)
   
 These are my main social media profiles. If you want to know more about me and my other projects, you can check out my Linktree.
 
+- [![Gmail](https://img.shields.io/badge/Gmail-%23c71610.svg?logo=Gmail&logoColor=white)](mailto:jesus.huertakg@gmail.com) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/planisphere.k1) 
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PlanisphereK1) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesushuertaaguilar) 
