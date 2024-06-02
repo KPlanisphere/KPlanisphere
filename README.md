@@ -4,7 +4,7 @@
 > AKA: PLANISPHERE // KEYGLAZZ
 
 <p align= "center">
-    <img src="https://github.com/KPlanisphere/KPlanisphere/assets/60454942/cf731cf6-3769-4a5b-8c7b-a1defc20c759" width="800" height="auto" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR5NDl6a2N6cTIwcTl1aXpyYXdxcnFxMHM1Zm02cTdlcnZjaXhsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cSEOsuiFxcHwRoR0Eu/giphy-downsized-large.gif" width="800" height="auto" />
 </p>
 
 ## 🥭 About Me
