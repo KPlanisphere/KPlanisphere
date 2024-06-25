@@ -68,8 +68,6 @@ Currently, I am dedicating time to deepen my knowledge in Python and R. These ar
 
 ## 📊 GitHub Stats:
 
-<h4 align="center">🚨 I’M STILL UPLOADING MY OLD SCHOOL PROJECTS 🚨</h4>
-
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPlanisphere&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="Top Languages" />  </p>
 
 ---
