@@ -1,5 +1,3 @@
-# https://www.canva.com/design/DAGXQh_tBrU/2EwucARIE9qoxnjKHMEDqA/view?utm_content=DAGXQh_tBrU&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
 
 # JESÚS HUERTA AGUILAR
 
