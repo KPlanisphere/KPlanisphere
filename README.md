@@ -19,7 +19,7 @@ My primary focus revolves around the captivating realms of Artificial Intelligen
 
 Beyond my dedication to technology, I harbor a vibrant creative spirit. In my leisure time, I delve into the realm of music production. Music serves as an outlet for my artistic expression, enabling me to strike a harmonious balance between my passion for computer science and my creative inclinations.
 
-Follow my artistic project "[Keyboard Glazz](https://youtube.com/@keyboardglazz)":   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6-jfBf6FPcoK86qND5daVQ)
+Follow my artistic project "[KEYGLAZZ](https://youtube.com/@keyglazz)":   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6-jfBf6FPcoK86qND5daVQ)
 
 
 
