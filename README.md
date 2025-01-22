@@ -9,7 +9,7 @@
 
 ## 🥭 About Me
 
-I'm Jesús Huerta Aguilar, a dedicated student with a profound enthusiasm for technology and creativity. Currently, I'm advancing through my eighth semester at the Facultad de Ciencias de la Computación (FCC) at the Benemérita Universidad Autonoma de Puebla.
+I'm Jesús Huerta Aguilar, a passionate Computer Science student in my nineth semester at FCC, Benemérita Universidad Autónoma de Puebla. I have a strong enthusiasm for AI, ML, and creative endeavors, blending technology with artistic expression.
 
 ## 🧠 Interests 
 
@@ -17,7 +17,7 @@ My primary focus revolves around the captivating realms of Artificial Intelligen
 
 ## 🎨 Artistic Projects
 
-Beyond my dedication to technology, I harbor a vibrant creative spirit. In my leisure time, I delve into the realm of music production. Music serves as an outlet for my artistic expression, enabling me to strike a harmonious balance between my passion for computer science and my creative inclinations.
+In addition to my passion for AI and ML, I explore creativity through music production under the alias KEYGLAZZ. This artistic outlet complements my technical mindset, allowing me to merge data-driven approaches with artistic innovation.
 
 Follow my artistic project "[KEYGLAZZ](https://youtube.com/@keyglazz)":   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6-jfBf6FPcoK86qND5daVQ)
 
